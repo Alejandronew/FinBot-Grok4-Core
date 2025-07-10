@@ -1,0 +1,6 @@
+{
+  "api_key": "your_api_key_here",
+  "model": "gpt-4",
+  "trading_platform": "binance",
+  "voice_enabled": true
+}

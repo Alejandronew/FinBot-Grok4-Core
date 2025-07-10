@@ -1,0 +1,11 @@
+requests
+openai
+numpy
+pandas
+scikit-learn
+xgboost
+kivy
+termcolor
+sounddevice
+vosk
+pyttsx3
